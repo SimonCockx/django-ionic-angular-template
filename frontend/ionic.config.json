@@ -1,0 +1,6 @@
+{
+  "name": "[[APPLICATION_NAME]]-frontend",
+  "integrations": {},
+  "type": "angular",
+  "interactive": true
+}

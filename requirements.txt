@@ -1,0 +1,6 @@
+asgiref
+django-spa
+django
+pytz
+sqlparse
+whitenoise
